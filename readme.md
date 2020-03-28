@@ -1,17 +1,20 @@
+## 说明
 
-# The Star And Thank Author License (SATA License)
+本人在原版 SATA 协议基础上，添加了中文翻译，译文仅供参考，以下是原始描述：
+
+## The Star And Thank Author License (SATA License)
 
 This is a novel new idea to make license social and fun.
 
 The basic idea is, whenever using a project using SATA license, people shall star/like/+1 that project and thank the author. Just imagine Google stared your project and send you a thank-you letter because they used your project in github!
 
-## How to use
+### How to use
 
-Here is the template of the [Star And Thank Author License](LICENSE-template.txt) sublicensed from [MIT License](http://opensource.org/licenses/MIT). Just copy the template and modify the author and project url section.
+Here is the template of the [Star And Thank Author License](LICENSE-template.md) sublicensed from [MIT License](http://opensource.org/licenses/MIT). Just copy the template and modify the author and project url section.
 
 You can also customize by sublicensing other licenses such as [GPL](http://opensource.org/licenses/gpl-license).
 
-I've written a blog post about [Star And Thank Author License](LICENSE-template.txt).
+I've written a blog post about [Star And Thank Author License](LICENSE-template.md).
 
 http://blog.ztrix.me/blog/2014/03/29/star-and-thank-author-license/
 
@@ -19,7 +22,7 @@ http://blog.ztrix.me/blog/2014/03/29/star-and-thank-author-license/
 
 http://blog.csdn.net/qq_30242609/article/details/54835687
 
-## License
+### License
 
 Notice that this [SATA-License](https://github.com/zTrix/sata-license) project is also using [SATA license](LICENSE.txt) (self-referencing, recursive, cool?), which means to use SATA license, you have to star this project.
 
