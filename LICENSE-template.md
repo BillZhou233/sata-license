@@ -2,7 +2,7 @@
 
 The Star And Thank Author License (SATA)
 
-Copyright © <Year> <Author>(email)
+Copyright © _Year_ _Author_ _(email)_
 
 Project Url: 
 - Project url list
@@ -43,7 +43,7 @@ THE SOFTWARE.
 
 The Star And Thank Author 许可证 (SATA)
 
-版权所有 © <Y年份> <作者>(邮箱)
+版权所有 © _年份_ _作者_ _(邮箱)_
 
 项目地址: 
 - 该项目的所有地址列表
